@@ -21,6 +21,14 @@ Secure Blog Management API using FastAPI, MySQL, JWT, RBAC
 - Author → Manage own blogs
 - User → View blogs
 
+- ## 📸 Screenshots
+
+  See `/screenshots` folder for:
+- Swagger
+- Postman
+- Database
+- ER Diagram
+
 ## 📦 Setup
 
 ```bash
@@ -29,11 +37,5 @@ cd blog_management
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 
-## 📸 Screenshots
 
-See `/screenshots` folder for:
-- Swagger
-- Postman
-- Database
-- ER Diagram
 
